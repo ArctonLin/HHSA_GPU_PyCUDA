@@ -61,3 +61,13 @@
 - `HeartRate.txt_HHS.png`: 2D Colormap plotting AM vs FM frequency across all times.
 - `HeartRate.txt_HHSA_3D.png`: 3D Scatter plot visualizing AM, FM, and Time.
 - `HeartRate.txt_HHSA.gif`: Animation over time-cells showing the shift in spectra.
+
+---
+
+## Support
+
+<div align="center">
+  <a href="https://buymeacoffee.com/arcton" target="_blank">
+    <img src="buymeacoffee.jpg" alt="Buy Me A Coffee" width="360">
+  </a>
+</div>
